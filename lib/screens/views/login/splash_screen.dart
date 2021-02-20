@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:bau_help_desk/screens/views/login/login_page.dart';
 import 'package:bau_help_desk/screens/views/main_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -15,7 +16,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Timer(
         Duration(seconds: 3),
         () => Navigator.push(
-            context, MaterialPageRoute(builder: (context) => MainScreen())));
+            context, MaterialPageRoute(builder: (context) => LoginPage())));
   }
 
   @override
