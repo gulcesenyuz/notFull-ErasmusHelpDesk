@@ -1,6 +1,14 @@
 # bau_help_desk
 
-A new Flutter project.
+Bahçeşehir University Erasmus Office Help Desk Demo 
+App Store + Play Store
+Financial Support approved
+Teammate : https://github.com/alieren97
+
+Here is some picture from the real project ->
+
+
+
 
 ## Getting Started
 
