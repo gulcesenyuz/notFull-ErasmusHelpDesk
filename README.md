@@ -7,6 +7,9 @@ Teammate : https://github.com/alieren97
 
 Here is some picture from the real project ->
 
+![](assets/images/Screenshot_1614629669.png)
+![](assets/images/Screenshot_1614632646.png)
+
 
 
 
